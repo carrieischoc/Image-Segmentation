@@ -1,2 +1,2 @@
 # Image-Segmentation
-## Analysis of Convex Relaxation Approaches for Minimal Partitions
+Analysis of Convex Relaxation Approaches for Minimal Partitions
